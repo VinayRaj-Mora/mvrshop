@@ -5,5 +5,5 @@
 
 ## Karam-Dosa
 * Dosa-batter
-* karam
+* erra-karam
 * oil

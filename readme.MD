@@ -21,3 +21,13 @@
 * garamasala
 * papper
 * masala
+
+## mashroom-dosa
+* dosa-batter
+* mashroom-masala
+* butter
+* dry fruits
+* tomato karam
+* karram
+* oil
+* soil

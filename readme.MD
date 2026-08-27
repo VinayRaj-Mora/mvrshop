@@ -12,3 +12,12 @@
 * eggs
 * oil
 * karamm
+## panner-dosa
+* Dosa batter
+* panner
+* carrot
+* beetroot
+* chees
+* garamasala
+* papper
+* masala

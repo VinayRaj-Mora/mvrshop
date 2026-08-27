@@ -12,3 +12,5 @@
 * eggs
 * oil
 * karamm
+## panner-dosa
+* Dosa batter

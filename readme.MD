@@ -16,3 +16,4 @@
 * Dosa batter
 * panner
 * carrot
+* beetroot

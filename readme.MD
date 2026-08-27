@@ -18,3 +18,4 @@
 * carrot
 * beetroot
 * chees
+* garamasala

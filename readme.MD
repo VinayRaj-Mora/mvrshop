@@ -30,3 +30,4 @@
 * tomato karam
 * karram
 * oil
+* soil
